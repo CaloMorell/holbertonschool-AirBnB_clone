@@ -1,5 +1,3 @@
-/* styles/6-filters.css */
-
 .filters {
     background-color: white;
     height: 70px;
@@ -75,4 +73,3 @@ button {
 button:hover {
     opacity: 90%;
 }
-
